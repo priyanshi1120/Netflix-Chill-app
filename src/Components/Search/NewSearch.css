@@ -1,0 +1,13 @@
+.dataResult{
+    z-index: 230;
+   max-height:fit-content;
+    /* margin-bottom: -230px; */
+    
+   color: black;
+   background-color: #fff;
+    overflow: hidden;
+    overflow-y: auto;
+}
+.dataResult::-webkit-scrollbar{
+    display: none;
+}
